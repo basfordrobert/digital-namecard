@@ -3,11 +3,11 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Basford;Robert;;;
 FN: Robert Cole Basford 
-ORG:Otso;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
+ORG:Otso Ltd;
+TITLE:Senior Technical Consultant\nSydney, Australia
 EMAIL;type=INTERNET;type=WORK;type=pref:robert.basford@icloud.com
 TEL;type=WORK;type=VOICE:+61 431623347
-item1.ADR;type=WORK;type=pref:;;15 Wallis Parade View\nSandcrawler\, NSW;;;2026;Australia
+item1.ADR;type=WORK;type=pref:;;15 Wallis Parade\nNorth Bondi NSW;;;2026;Australia
 item1.X-ABADR:au
 item2.URL;type=pref:otso.com.au
 item2.X-ABLabel:_$!<HomePage>!$_
